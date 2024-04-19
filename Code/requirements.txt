@@ -1,0 +1,9 @@
+osmnx
+pyshp
+shapefile
+pandas
+numpy
+pynetlogo
+SALib
+matplotlib
+seaborn
